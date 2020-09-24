@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guias3</string>
+    <string name="btn_white">BLANCO</string>
+    <string name="btn_red">ROJO</string>
+    <string name="title">Cambio de colores</string>
+
+</resources>
